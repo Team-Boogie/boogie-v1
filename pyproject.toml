@@ -1,0 +1,21 @@
+[project]
+name = "boogie-hybrid"
+version = "1.2.1"
+description = "free fortnite skins"
+requires-python = "~=3.12.0"
+dependencies = [
+    "aiohttp>=3.10.8",
+    "cryptography>=43.0.1",
+    "cx-freeze>=7.2.5",
+    "legendary-gl>=0.20.34",
+    "mitmproxy>=10.4.2",
+    "psutil>=6.0.0",
+    "pypresence>=4.3.0",
+    "pywebview==5.3",
+    "pywin32>=308",
+    "semver>=3.0.2",
+    "types-pywin32>=308",
+    "ujson>=5.10.0",
+    "websockets>=13.1",
+    "yt-dlp>=2024.11.4",
+]
